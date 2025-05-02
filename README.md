@@ -7,4 +7,4 @@ Bu repoda yer alan alıştırmalar, **EmKa Academy** tarafından YouTube'da payl
 
 ## Kaynak
 
-🔗 [EmKa Academy YouTube Kanalı]((https://www.youtube.com/@emkaakademi))
+🔗 [EmKa Academy YouTube Kanalı](https://www.youtube.com/@emkaakademi)
